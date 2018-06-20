@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Alan Doe
     tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: profile.png1  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: hello@webjeda.com
